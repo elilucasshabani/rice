@@ -1,0 +1,2 @@
+# rice
+buying rice
